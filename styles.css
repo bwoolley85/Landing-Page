@@ -9,8 +9,6 @@ li {
 
 .header {
     background-color: #1F2937;
-    height: 550px;
-    width: auto;
     display: flex;
 }
 
@@ -57,7 +55,7 @@ li {
 .main-content {
     display: flex;
     flex-direction: column;
-    width: 400px;
+    width: 450px;
     gap: 12px;
     align-items: center;
     justify-content: center;
@@ -95,14 +93,14 @@ li {
 }
 
 .mid {
-    height: 400px;
-    width: auto;
     display: flex;
+    flex: auto;
     flex-direction: column;
 }
 
 .mid-container {
     display: flex;
+    flex: auto;
     flex-direction: column;
     align-items: center;
     margin: 16px 0;
@@ -115,7 +113,8 @@ li {
     margin: 16px 0;
 }
 
-.mid-content {
+.mid-content,
+.mid-text {
     display: flex;
     flex: auto;
 }
@@ -123,10 +122,9 @@ li {
 .image-row {
     display: flex;
     flex: auto;
+    list-style: none;
     justify-content: space-evenly;
     margin: 0;
-    padding: 0;
-    list-style: none;
 }
 
 .row-image {
@@ -134,4 +132,17 @@ li {
     height: 200px;
     width: auto;
     border-radius: 10px;
+}
+
+.image-text {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    flex: auto;
+    justify-content: space-evenly;
+}
+
+.row-text {
+    width: 175px;
+
 }
