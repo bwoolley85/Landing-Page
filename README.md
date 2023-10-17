@@ -1,8 +1,35 @@
-Recipe Landing Page
+# Landing Page Recreation
 
-Welcome to the Recipe Landing Page! This project aims to deliver a captivating web experience by creating an enticing collection of recipes, beautifully presented using HTML, CSS, and Flexbox. Within the confines of an Ubuntu Virtual Machine (VM), this endeavor takes you on a journey of web development and design, with tasks ranging from precise directory management to the creation of mouthwatering culinary content. The final result is an inviting website that elegantly showcases a variety of recipes, complete with descriptive narratives, ingredient lists, and step-by-step cooking instructions. As a testament to your skills in web development, this project serves as a foundational platform for a functional recipe website, ripe for future expansion.
+Recreating a landing page using HTML, CSS, and flexbox layout.
 
-- HTML
-- CSS
-- Flexbox
-- Git & Github
+## Overview
+
+This project aims to replicate a landing page with the following elements:
+
+- Header with navigation links.
+- Main content featuring images and text.
+- Footer with a signup link and copyright section.
+
+## Technologies
+
+- HTML for structure.
+- CSS for styling and layout.
+- Flexbox for responsive design.
+
+## Usage
+
+1. Clone the repository.
+2. Open `index.html` in a web browser to view the landing page.
+3. Modify HTML and CSS for customization.
+
+## Contributing
+
+Feel free to fork the repository and create pull requests.
+
+## License
+
+This project is licensed under the MIT License.
+
+## Contact
+
+For questions or feedback, contact me at bwoolley@virtualdojo.org.
