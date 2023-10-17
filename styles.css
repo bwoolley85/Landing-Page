@@ -144,5 +144,33 @@ li {
 
 .row-text {
     width: 175px;
+}
 
+.quote {
+    display: flex;
+    background-color: #E5E7EB;
+    flex-direction: column;
+}
+
+.quote-container {
+    display: flex;
+    height: 400px;
+    flex: auto;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.quote-box {
+    display: flex;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937;
+    text-align: center;
+    margin: 0;
+}
+
+.quote-header {
+    display: flex;
+    justify-content: flex-end;
 }
